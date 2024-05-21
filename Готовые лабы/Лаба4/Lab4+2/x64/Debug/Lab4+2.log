@@ -1,0 +1,5 @@
+﻿  Lab4_2.cpp
+C:\Users\user\Desktop\МП\Лаба4\Lab4+2\Lab4_2.cpp(37,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\user\Desktop\МП\Лаба4\Lab4+2\Lab4_2.cpp(46,9): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\Desktop\МП\Лаба4\Lab4+2\Lab4_2.cpp(47,9): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Lab4+2.vcxproj -> C:\Users\user\Desktop\МП\Лаба4\Lab4\x64\Debug\Lab4_2.exe
